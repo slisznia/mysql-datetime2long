@@ -40,5 +40,4 @@ and back...
 +--------------------------------+
 ```
 
-_Enjoy!
-Slawomir_
+_Enjoy, Slawomir_
