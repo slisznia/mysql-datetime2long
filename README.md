@@ -40,6 +40,5 @@ and back...
 +--------------------------------+
 ```
 
-Enjoy!
-
-Slawomir
+_Enjoy!
+Slawomir_
