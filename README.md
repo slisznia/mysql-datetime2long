@@ -9,7 +9,7 @@
 
 ## Conversion formula
 
-Formula to encode a datetime to a bigint:
+Formula to encode a datetime as bigint:
 
 ```
     year << 46
